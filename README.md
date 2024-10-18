@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in data analytics
-- 👨‍💻 Currently working on SAS EM and Microsoft Azure
+- 👨‍💻 Currently working on projects on SAS EM and Microsoft Azure
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ilaydakayann@gmail.com
 
