@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @ilaydakayan
+                                                                  Hi 👋, I'm Ilayda
+
+
+
 - 👀 I’m interested in data analytics
+- 👨‍💻 Currently working on SAS EM and Microsoft Azure
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ilaydakayann@gmail.com
 
