@@ -5,7 +5,7 @@ I completed my Master of Business Analytics in Melbourne and I'm building projec
 
 
 📫 Contact
-ilaydakayan96@gmail.com
+ilaydakayann@gmail.com
 
 <!---
 ilaydakayan/ilaydakayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
